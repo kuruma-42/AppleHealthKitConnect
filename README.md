@@ -9,4 +9,4 @@
 - 애플의 권장사항 대로 권한을 거부하면 거부한대로 앱이 동작하게 만들었다.
 - 결과적으로는 HKSampleQuery -> HKStatisticsCollectionQuery 변화를 주니 걸음수가 디바이스의 건강앱과 일치하게 되었다.
 - 대부분 블로그들의 코드랩은 HKSampleQuery되어 있으나, 그렇게 구현하면 애플 워치나 기기가 여러개인 사용자에게선 큰 오류가 난다.
-- 상세 리뷰는 기술 블로그를 참조 [TechBlog](https://velog.io/@kuruma-42/How-to-Connect-HealthKit-p974onx2)
+- 상세 리뷰는 기술 블로그를 참조 [TechBlog](https://velog.io/@kuruma-42/How-To-Send-E-mail-In-App)
